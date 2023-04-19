@@ -1,4 +1,7 @@
-  # Installation
+<img width="1142" alt="image" src="https://user-images.githubusercontent.com/131304840/233219556-b066a546-3889-4bf7-b250-db2cb61d2d09.png">
+
+
+# Installation
   
   ```
   cd app 
